@@ -1,0 +1,80 @@
+ div.home{
+    background: url(1012940.jpg);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    
+}
+nav{
+    color: palevioletred;
+    background-color: palevioletred;
+    margin: 40px;
+    width: 100%;
+    height: 30px;
+}
+ul{
+    text-decoration: none;
+    display: inline;
+}
+ul li{
+    display: inline;
+    font-size: larger;
+    margin: 15px;
+    padding: 20px;
+}
+ul li a{
+    font-size: larger;
+    margin: 10px;
+    text-decoration: none;
+    color: aliceblue;
+}
+ul li a:hover{
+    color: blue;
+}
+.you{
+    padding-top: 330px;
+    padding-left: 35px;
+   
+}
+.shop button .shop-button:hover{
+    background-color: palevioletred;
+}
+button .shop-button:hover{
+    color: palevioletred;
+    background-color: palevioletred;
+}
+.adv .aa{
+    font-size: xx-large;
+    color: black;
+}
+
+.container{
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+   }
+   .cake{
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 200px;
+   }
+   .cake img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+   }
+   .cake h2{
+    font-weight: bold;
+    margin-top: 0;
+   }
+   .cake p{
+    margin-bottom: 20px;
+   }

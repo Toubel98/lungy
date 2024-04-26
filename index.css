@@ -1,0 +1,38 @@
+< !DOCTYPE html>
+<html>
+    <head>
+        <title>Home CAke</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <nav>
+            <div class="navigater">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="CAKE SHOP.html">Type cake</a></li>
+                    <li><a href="#">Shop now</a></li>
+                    <li><a href="Types of flavours.html">Types of flavour</a></li>
+                    <li><a href="Contact.html">Contact us</a></li>
+                    <li><a href="About.html">About Us</a></li>
+                    <li><a href="#">Location</a></li>
+                </ul>
+            </div>
+        </nav>
+        <h1 style="color: rgb(211, 109, 143); text-align: center;">Yummy Cakes Store</h1>
+        <div class="home">
+            <div class="you">
+            <h3 class="shop">
+                welcome to Yummy Cakes Store...<br>
+                All about cakes and pastries <br>
+                The passion for baking cakes never stops...<br>
+                <br>
+                <button style="padding: 10px 10px; background-color: black; color: aliceblue; " class="shop-button" >Shop Now</button>
+            </h3>
+            </div>
+        </div>
+        <section class="adv">
+            <h1 class="aa">Cake For People Who Want More...</h1
+                </div>
+        </section>
+    </body>
+</html>
